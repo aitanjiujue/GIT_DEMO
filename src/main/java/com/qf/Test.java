@@ -11,6 +11,11 @@ package com.qf;
  * @Version 1.0
  */
 public class Test {
+
+    public void newAdd(){
+
+    }
+
     public static void main(String[] args) {
         System.out.println("Hello GitHub");
     }
